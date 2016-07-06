@@ -12,3 +12,6 @@ https://www.youtube.com/embed/ibHY-CLNJyU
 
 iframe google maps:
 https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.316993823916!2d-73.9940201849879!3d40.75505217932729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a44dea90d7%3A0x84cfd82764bcbcf3!2sFly+Communications+Inc!5e0!3m2!1sen!2sus!4v1467597813995
+
+Link to get colors for the css: 
+http://www.colourlovers.com/
